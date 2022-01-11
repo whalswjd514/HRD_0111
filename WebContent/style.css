@@ -1,0 +1,103 @@
+@CHARSET "UTF-8";
+*{
+	margin:0;
+	padding:0;
+}
+body,html{
+	width:100%;
+	height:100%;
+}
+header{
+	width:100%;
+	height:10%;
+	background:dodgerblue;
+	color:white;
+	text-align:center;
+	font-size:2em;
+	line-height:70px;
+}
+nav{
+	width:100%;
+	height:5%;
+	background:purple;
+}
+nav ul{
+	list-style-type:none;
+	padding:0 0 0 40px;
+}
+nav li{
+	display:inline;
+}
+nav a{
+	text-decoration:none;
+	color:white;
+	margin:0 30px;
+	line-height:40px;
+}
+nav a:hover{
+	color:pink;
+	font-size:2em;
+}
+section{
+	width:100%;
+	height:80%;
+}
+section h1{
+	text-align:center;
+	margin:10px 0 0 0;
+}
+section h3{
+	margin:15px 0 0 25px;
+}
+section h4{
+	margin:0 0 0 25px;
+}
+section ol{
+	margin:0 0 0 25px;
+}
+footer{
+	width:100%;
+	height:5%;
+	background:gray;
+	color:white;
+	text-align:center;
+	line-height:40px;
+	font-size:1em;
+}
+#tab1{
+	width:50%;
+	height:30%;
+	margin:0 auto;
+	border:2px solid black;
+}
+#tab2{
+	width:70%;
+	height:30%;
+	margin:0 auto;
+	border:2px solid black;
+}
+#tab3{
+	width:40%;
+	height:30%;
+	margin:0 auto;
+	border:2px solid black;
+}
+#in1{
+	width:70%;
+	height:30px;
+}
+#s1{
+	width:30%;
+	height:30px;
+}
+#th1{
+	width:25%;
+	background:lightgray;
+}
+#th2{
+	background:lightgray;
+}
+#btn1{
+	width:25%;
+	height:30px;
+}
