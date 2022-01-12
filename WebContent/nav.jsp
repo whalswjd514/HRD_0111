@@ -11,6 +11,7 @@
 	<ul>
 		<li><a href="insert_sawon.jsp">사원등록</a></li>
 		<li><a href="insert_hobong.jsp">호봉등록</a></li>
+		<li><a href="insert_sudang.jsp">수당등록</a></li>
 		<li><a href="select_sawon.jsp">사원정보</a></li>
 		<li><a href="select_hobong.jsp">호봉정보</a></li>
 		<li><a href="select_sudang.jsp">수당정보</a></li>
